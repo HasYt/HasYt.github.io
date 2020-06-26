@@ -1,0 +1,125 @@
+.Logo{
+	text-align: center;
+	font-size: 40px;
+	border: 4px solid #cf0c0c;
+	background-color: #6508a3;
+}
+body{
+	background-image: url(rafael-de-jongh-80s-bg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+div{
+	color:red;
+	font-family: Arial, sant-serif;
+}
+a{
+	color: #05f3f7;
+	font-family: Arial, sant-serif;
+}
+.One{
+	font-size: 25px;
+	padding-left: 20px;
+	border: 4px solid #cf0c0c;
+	background-color: #6508a3;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	width: 1755px;
+}
+.Two{
+	font-size: 25px;
+	padding-left: 20px;
+	border: 4px solid #cf0c0c;
+	background-color: #6508a3;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	width: 532px;
+}
+.There{
+	font-size: 25px;
+	padding-left: 20px;
+	border: 4px solid #cf0c0c;
+	background-color: #6508a3;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	width: 210px;
+}
+.message{
+	font-size: 30px;
+	padding-left: 20px;
+	border: 4px solid #cf0c0c;
+	background-color: #6508a3;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	width: 140px;
+}
+.mozilla{
+	font-size: 30px;
+	padding-left: 20px;
+	border: 4px solid #cf0c0c;
+	background-color: #6508a3;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	width: 270px;
+}
+.SW{
+	border: 4px solid purple;
+}
+.CB{
+	margin-left: 100px;
+	transition: 0.5s all;
+}
+.CB:hover{
+	transform: scale(1.04);
+}
+.KZ{
+	margin-left: 100px;
+	transition: 0.5s all;
+}
+.KZ:hover{
+	transform: scale(1.04);
+}
+.HM{
+	margin-left: 100px;
+	transition: 0.5s all;
+}
+.HM:hover{
+	transform: scale(1.04);
+}
+.Examples{
+	font-size: 23px;
+	padding-left: 20px;
+	border: 4px solid #cf0c0c;
+	background-color: #6508a3;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	width: 110px;
+}
+.Work{
+	margin-left: 50px;
+	transition: 0.5s all;
+}
+.Work:hover{
+	transform: scale(1.02);
+}
+.img{
+	border: 4px solid #cf0c0c;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	border-radius: 100px;
+	background-color: #cf04b3;
+	transition: 0.7s all;
+}
+.img:hover{
+	transform: scale(1.05);
+}
+#floatTip{
+	position: absolute;
+	display: none;
+	width: 120px;
+	border: 4px solid #cf0c0c;
+	color:red;
+	font-family: Arial, sant-serif;
+	font-size: 20px;
+	background: #6508a3;
+}
